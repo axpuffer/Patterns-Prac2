@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Patterns-Prac2/1.0.0": {
+        "runtime": {
+          "Patterns-Prac2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patterns-Prac2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

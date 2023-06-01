@@ -1,0 +1,15 @@
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\bin\Debug\net6.0\Patterns-Prac2.exe
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\bin\Debug\net6.0\Patterns-Prac2.deps.json
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\bin\Debug\net6.0\Patterns-Prac2.runtimeconfig.json
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\bin\Debug\net6.0\Patterns-Prac2.dll
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\bin\Debug\net6.0\Patterns-Prac2.pdb
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\Patterns-Prac2.csproj.AssemblyReference.cache
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\Patterns-Prac2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\Patterns-Prac2.AssemblyInfoInputs.cache
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\Patterns-Prac2.AssemblyInfo.cs
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\Patterns-Prac2.csproj.CoreCompileInputs.cache
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\Patterns-Prac2.dll
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\refint\Patterns-Prac2.dll
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\Patterns-Prac2.pdb
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\Patterns-Prac2.genruntimeconfig.cache
+C:\Users\puffer\Desktop\Patterns-Prac2\Patterns-Prac2\obj\Debug\net6.0\ref\Patterns-Prac2.dll
